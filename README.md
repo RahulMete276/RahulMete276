@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @RahulMete276
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm Rahul Mete  
 
-<!---
-RahulMete276/RahulMete276 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I'm a passionate Web Developer with a strong interest in building responsive and user-friendly web applications.
+
+🌱 Currently learning and improving my skills in:
+- HTML, CSS, JavaScript
+- Node.js & Express
+- MongoDB
+🛠️ Skills:
+- Frontend Development
+- Backend Basics
+- REST APIs
+- Responsive Web Design
+
+📌 Projects:
+- Web-based applications
+- Academic & personal projects
+- Learning-focused development projects
+
+🎯 Goal:
+To become a skilled Full Stack Web Developer and contribute to real-world projects.
